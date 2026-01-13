@@ -11,41 +11,43 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 <summary><b>Click to view my projects / Çalışmalarımı görmek için tıklayın 📂</b></summary>
 <br>
 
-### 🔴 E63's Red Theme
-* **[TR]:** Kendi nick'im olan **E63** adıyla hazırladığım, tamamen bana özel kırmızı ve siyah tonlara sahip kullanıcı arayüzü teması. Görsellik ve fonksiyonelliği bir araya getiren bu tema, T-Embed'in havasını tamamen değiştiriyor.
-* **[EN]:** A custom UI theme with red and black tones, created under my nick **E63**. This theme combines aesthetics and functionality to completely transform the T-Embed experience.
+### 🔴 E63's Red Theme (#993633)
+* **[TR]:** Kendi nick'im olan **E63** adıyla hazırladığım, `#993633` renginde özel UI teması.
+* **[EN]:** A custom UI theme designed with `#993633` under my nick **E63**.
 
 ### 📽️ Boot.gif
-* **[TR]:** Cihaz açılışında beni karşılayan, **E63** imzalı özel açılış animasyonu.
-* **[EN]:** A custom boot animation with **E63** signature that greets me when the device starts up.
+* **[TR]:** **E63** imzalı özel cihaz açılış animasyonu.
+* **[EN]:** A custom boot animation with **E63** signature.
 
 </details>
 
 ---
 
-## ⚙️ How to Create Themes for T-Embed? / T-Embed Teması Nasıl Oluşturulur?
+## ⚙️ How to Create Themes? / Tema Nasıl Oluşturulur?
 
 <details>
 <summary><b>Click to expand / Detayları görmek için tıklayın 📂</b></summary>
 <br>
 
-### 🛠️ Step-by-Step Theme / Adım Adım Tema
-* **[TR]:** 320x170 piksel boyutlarında arayüzü tasarlayın. Renk paleti için RGB565 formatını kullanın. Görselleri bir dönüştürücü ile .c dosyasına çevirip Firmware koduna ekleyin ve cihazı flashlayın.
-* **[EN]:** Design the interface at 320x170 pixels. Use RGB565 format for the color palette. Convert images to .c files, include them in the firmware code, and flash the device.
+1. **[TR] Tasarım:** 320x170 piksel boyutlarında arayüzü tasarlayın. / **[EN] Design:** Design at 320x170 px.
+2. **[TR] Renk:** Ekran için RGB565 formatını kullanın. / **[EN] Color:** Use RGB565 for the screen.
+3. **[TR] Dönüştürme:** Görselleri `.c` dosyasına çevirin. / **[EN] Conversion:** Convert images to `.c` files.
+4. **[TR] Yükleme:** Dosyaları Firmware'e ekleyip flashlayın. / **[EN] Flashing:** Include files and flash.
 
 </details>
 
 ---
 
-## 🎞️ How to Create a Boot Animation? / Boot Animasyonu Nasıl Yapılır?
+## 🎞️ How to Create Boot Animation? / Boot Animasyonu Nasıl Yapılır?
 
 <details>
 <summary><b>Click to expand / Detayları görmek için tıklayın 📂</b></summary>
 <br>
 
-### 🎞️ Boot Animation / Boot Animasyonu
-* **[TR]:** 320x170 boyutunda kısa bir animasyon oluşturun. Karelerine ayırın veya doğrudan LVGL formatını kullanın. Dosyayı LittleFS üzerinden cihaza yükleyin ve setup fonksiyonu içinde tetikleyin.
-* **[EN]:** Create a short animation at 320x170 resolution. Split into frames or use LVGL format. Upload the file via LittleFS and trigger it within the setup function.
+1. **[TR] GIF Hazırlığı:** 320x170 boyutunda animasyon oluşturun. / **[EN] GIF Prep:** Create a 320x170 animation.
+2. **[TR] Format:** Karelerine ayırın veya LVGL formatını kullanın. / **[EN] Format:** Split into frames or use LVGL.
+3. **[TR] Dosya Sistemi:** Dosyayı LittleFS ile cihaza yükleyin. / **[EN] Filesystem:** Upload via LittleFS.
+4. **[TR] Kodlama:** `setup()` içinde animasyonu tetikleyin. / **[EN] Coding:** Trigger in `setup()`.
 
 </details>
 
