@@ -15,15 +15,10 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 <details>
 <summary>Türkçe Açıklama [TR]</summary>
 Kendi nick'im olan E63 adıyla hazırladığım, 993633 renginde özel UI teması. Görsellik ve fonksiyonelliği bir araya getiren bu tema, T-Embed'in havasını tamamen değiştiriyor.
-
-💾 **Dosyayı İndir:** [Theme_E63's_Red Theme.json](./Theme_E63's_Red%20Theme.json)
 </details>
-
 <details>
 <summary>English Description [EN]</summary>
 A custom UI theme designed with 993633 under my nick E63. This theme combines aesthetics and functionality to completely transform the T-Embed experience.
-
-💾 **Download File:** [Theme_E63's_Red Theme.json](./Theme_E63's_Red%20Theme.json)
 </details>
 
 <br>
@@ -32,15 +27,10 @@ A custom UI theme designed with 993633 under my nick E63. This theme combines ae
 <details>
 <summary>Türkçe Açıklama [TR]</summary>
 E63 imzalı özel cihaz açılış animasyonu. Cihaz açıldığında ekranda beliren kişiselleştirilmiş bir başlangıçtır.
-
-💾 **Dosyayı İndir:** [boot.gif](./boot.gif)
 </details>
-
 <details>
 <summary>English Description [EN]</summary>
 A custom boot animation with E63 signature. A personalized startup that appears on the screen when the device starts.
-
-💾 **Download File:** [boot.gif](./boot.gif)
 </details>
 
 </details>
@@ -55,9 +45,9 @@ A custom boot animation with E63 signature. A personalized startup that appears 
 
 <details>
 <summary>Adım Adım Tema Oluşturma [TR]</summary>
-1 Tasarım: https://bruce.computer/build_theme.html sitesine giderek 320x170 boyutunda arayüzü tasarlayın. 
-2 Renk: Tasarımda 993633 ve siyah tonlarını kullanarak uyum sağlayın. 
-3 Dönüştürme: Sitedeki araç ile görselleri .c dosyasına çevirin. 
+1 Tasarım: https://bruce.computer/build_theme.html sitesine giderek 320x170 boyutunda arayüzü tasarlayın. 
+2 Renk: Tasarımda 993633 ve siyah tonlarını kullanarak uyum sağlayın. 
+3 Dönüştürme: Sitedeki araç ile görselleri .c dosyasına çevirin. 
 4 Yükleme: Oluşturulan dosyaları Firmware koduna ekleyip cihazı flashlayın.
 </details>
 
@@ -81,9 +71,9 @@ A custom boot animation with E63 signature. A personalized startup that appears 
 
 <details>
 <summary>Boot Animasyonu Nasıl Yapılır? [TR]</summary>
-1 GIF Hazırlığı: https://ezgif.com/maker adresini kullanarak 320x170 boyutunda kısa bir animasyon oluşturun. 
-2 Format: Karelerine ayırın veya doğrudan LVGL formatını kullanın. 
-3 Dosya Sistemi: Hazırladığınız dosyayı LittleFS üzerinden cihaza yükleyin. 
+1 GIF Hazırlığı: https://ezgif.com/maker adresini kullanarak 320x170 boyutunda kısa bir animasyon oluşturun. 
+2 Format: Karelerine ayırın veya doğrudan LVGL formatını kullanın. 
+3 Dosya Sistemi: Hazırladığınız dosyayı LittleFS üzerinden cihaza yükleyin. 
 4 Kodlama: setup fonksiyonu içinde animasyonu tetikleyen kodu ekleyin.
 </details>
 
