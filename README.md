@@ -16,55 +16,105 @@ Welcome! I am E63. This repository contains custom projects, digital tools, and 
 <summary>📟 Lilygo T-Embed CC1101 Plus Projects</summary>
 <br>
 
-<h3 style="color:#993633">🔴 E63's Red Theme (993633)</h3>
 <details>
-<summary>Türkçe Açıklama [TR]</summary>
-T-Embed cihazı için 993633 renginde hazırladığım özel UI teması. Görsellik ve fonksiyonelliği bir araya getirerek cihazın havasını tamamen değiştirir.
-</details>
-<details>
-<summary>English Description [EN]</summary>
-Custom UI theme designed with 993633 for the T-Embed device. Combines aesthetics and functionality to transform the device experience.
+<summary>🔴 E63's Red Theme (993633)</summary>
+<br>
+<blockquote>
+<strong>[TR]:</strong> T-Embed cihazı için 993633 renginde hazırladığım özel UI teması. Görsellik ve fonksiyonelliği bir araya getirerek cihazın havasını tamamen değiştirir.<br><br>
+<strong>[EN]:</strong> Custom UI theme designed with 993633 for the T-Embed device. Combines aesthetics and functionality to transform the device experience.
+</blockquote>
 </details>
 
 <br>
 
-<h3 style="color:#993633">📽️ Boot.gif Animation</h3>
 <details>
-<summary>Türkçe Açıklama [TR]</summary>
-T-Embed açılışında görünen E63 imzalı özel başlangıç animasyonu.
-</details>
-<details>
-<summary>English Description [EN]</summary>
-Custom startup animation with E63 signature for the T-Embed device.
+<summary>📽️ Boot.gif Animation</summary>
+<br>
+<blockquote>
+<strong>[TR]:</strong> E63 imzalı özel cihaz açılış animasyonu. Cihaz açıldığında ekranda beliren kişiselleştirilmiş bir başlangıçtır.<br><br>
+<strong>[EN]:</strong> A custom boot animation with E63 signature. A personalized startup that appears on the screen when the device starts.
+</blockquote>
 </details>
 
 <br>
 
-<h3 style="color:#993633">🛠️ T-Embed Technical Guides / Teknik Rehberler</h3>
 <details>
-<summary>Theme & Animation Creation [TR/EN]</summary>
+<summary>📡 Custom SSID Lists</summary>
+<br>
+<blockquote>
+<strong>[TR]:</strong> T-Embed cihazı için hazırlanmış özel SSID listeleri:
+<ul>
+  <li><strong>e63_on_top_spam.txt:</strong> "E63_ON_TOP_#1" sloganına odaklanan baskın liste.</li>
+  <li><strong>e63_random_spam.txt:</strong> Karma E63 sloganları içerir.</li>
+  <li><strong>e63_random_spam2.txt:</strong> Terminal komutları (ROOT, SUDO vb.) ve gizlilik odaklı profesyonel liste.</li>
+</ul>
+<br>
+<strong>[EN]:</strong> Custom SSID lists prepared for T-Embed:
+<ul>
+  <li><strong>e63_on_top_spam.txt:</strong> Dominant list focused on "E63_ON_TOP_#1".</li>
+  <li><strong>e63_random_spam.txt:</strong> Contains mixed E63 slogans.</li>
+  <li><strong>e63_random_spam2.txt:</strong> Professional stealth list with Terminal commands (ROOT, SUDO, etc.).</li>
+</ul>
+</blockquote>
+</details>
 
-**[TR] T-Embed Tema Oluşturma:**
-1. Tasarım: https://bruce.computer/build_theme.html (320x170 px).
-2. Renk: 993633 ve siyah tonlarını kullanın.
-3. Dönüştürme: Görselleri .c dosyasına çevirin ve Firmware'e ekleyin.
+</details>
 
-**[EN] T-Embed Theme Creation:**
-1. Design: Use https://bruce.computer/build_theme.html (320x170 px).
-2. Color: Apply 993633 and black tones.
-3. Conversion: Convert images to .c and add to firmware.
+</details>
 
 ---
 
-**[TR] T-Embed Boot Animasyonu:**
-1. Hazırlık: https://ezgif.com/maker (320x170 px).
-2. Yükleme: LittleFS üzerinden cihaza yükleyin ve setup koduna ekleyin.
+<h2 style="color:#993633">📖 Technical Guides / Teknik Rehberler</h2>
 
-**[EN] T-Embed Boot Animation:**
-1. Prep: Use https://ezgif.com/maker (320x170 px).
-2. Upload: Flash via LittleFS and trigger in setup code.
+<details>
+<summary>Click to view guides / Rehberleri görüntülemek için tıklayın 📂</summary>
+<br>
+
+<details>
+<summary>🎨 Theme Creation / Tema Oluşturma</summary>
+<br>
+<blockquote>
+<strong>[TR]:</strong>
+1. Tasarım: https://bruce.computer/build_theme.html (320x170 px).
+2. Renk: 993633 ve siyah tonlarını kullanın.
+3. Dönüştürme: Görselleri .c dosyasına çevirin ve Firmware'e ekleyin.<br><br>
+<strong>[EN]:</strong>
+1. Design: Use https://bruce.computer/build_theme.html (320x170 px).
+2. Color: Apply 993633 and black tones.
+3. Conversion: Convert images to .c and add to firmware.
+</blockquote>
 </details>
 
+<br>
+
+<details>
+<summary>📽️ Boot Animation / Boot Animasyonu</summary>
+<br>
+<blockquote>
+<strong>[TR]:</strong>
+1. Hazırlık: https://ezgif.com/maker (320x170 px).
+2. Yükleme: LittleFS üzerinden cihaza yükleyin ve setup koduna ekleyin.<br><br>
+<strong>[EN]:</strong>
+1. Prep: Use https://ezgif.com/maker (320x170 px).
+2. Upload: Flash via LittleFS and trigger in setup code.
+</blockquote>
+</details>
+
+<br>
+
+<details>
+<summary>📡 Custom SSID Creation / Custom SSID Hazırlama</summary>
+<br>
+<blockquote>
+<strong>[TR]:</strong>
+1. Format: Yeni bir .txt dosyası oluşturun ve her satıra maksimum 32 karakterlik bir isim yazın.
+2. Yükleme: Hazırladığınız dosyayı SD karta veya LittleFS belleğine aktarın.
+3. Çalıştırma: Marauder gibi yazılımlarda "SSID Spam" menüsünden dosyanızı seçip başlatın.<br><br>
+<strong>[EN]:</strong>
+1. Format: Create a .txt file and write one SSID per line (max 32 chars).
+2. Upload: Transfer the file to the SD card or LittleFS memory.
+3. Execution: Select the file from the "SSID Spam" menu in firmware like Marauder.
+</blockquote>
 </details>
 
 </details>
