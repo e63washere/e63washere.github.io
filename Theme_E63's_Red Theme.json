@@ -1,0 +1,12 @@
+{
+  "name": "E63's Red Theme",
+  "author": "E63",
+  "priColor": "99a6",
+  "secColor": "48c3",
+  "bgColor": "0000",
+  "ledBright": "60",
+  "ledColor": "993633",
+  "ledEffect": "1",
+  "ledEffectSpeed": "4",
+  "ledEffectDirection": 1
+}
