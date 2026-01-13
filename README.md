@@ -15,10 +15,15 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 <details>
 <summary>Türkçe Açıklama [TR]</summary>
 Kendi nick'im olan E63 adıyla hazırladığım, 993633 renginde özel UI teması. Görsellik ve fonksiyonelliği bir araya getiren bu tema, T-Embed'in havasını tamamen değiştiriyor.
+
+💾 **Dosyayı İndir:** [Theme_E63's_Red Theme.json](./Theme_E63's_Red%20Theme.json)
 </details>
+
 <details>
 <summary>English Description [EN]</summary>
 A custom UI theme designed with 993633 under my nick E63. This theme combines aesthetics and functionality to completely transform the T-Embed experience.
+
+💾 **Download File:** [Theme_E63's_Red Theme.json](./Theme_E63's_Red%20Theme.json)
 </details>
 
 <br>
@@ -27,10 +32,15 @@ A custom UI theme designed with 993633 under my nick E63. This theme combines ae
 <details>
 <summary>Türkçe Açıklama [TR]</summary>
 E63 imzalı özel cihaz açılış animasyonu. Cihaz açıldığında ekranda beliren kişiselleştirilmiş bir başlangıçtır.
+
+💾 **Dosyayı İndir:** [boot.gif](./boot.gif)
 </details>
+
 <details>
 <summary>English Description [EN]</summary>
 A custom boot animation with E63 signature. A personalized startup that appears on the screen when the device starts.
+
+💾 **Download File:** [boot.gif](./boot.gif)
 </details>
 
 </details>
