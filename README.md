@@ -11,20 +11,9 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 <summary><b>Click to view my projects / Çalışmalarımı görmek için tıklayın 📂</b></summary>
 <br>
 
-### 🔴 E63's Red Theme (#993633 Edition)
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td bgcolor="#121212">
-        <img src="https://capsule-render.vercel.app/render?type=code&color=993633&height=150&section=header&text=E63%20RED%20THEME&fontSize=40&animation=fadeIn&fontAlignY=50&desc=Background%20Matrix%20Code%20Effect&descAlignY=70" width="600" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-* **[TR]:** Kendi nick'im olan **E63** adıyla hazırladığım, ana rengi `#993633` olan özel tema. Arka planda sürekli akan kod satırları animasyonu ile siber güvenlik estetiğini T-Embed'e taşıyor.
-* **[EN]:** A custom UI theme designed with `#993633` as the primary color. It brings a cybersecurity aesthetic to T-Embed with a continuous background code stream animation.
+### 🔴 E63's Red Theme
+* **[TR]:** Kendi nick'im olan **E63** adıyla hazırladığım, tamamen bana özel kırmızı ve siyah tonlara sahip kullanıcı arayüzü teması. Görsellik ve fonksiyonelliği bir araya getiren bu tema, T-Embed'in havasını tamamen değiştiriyor.
+* **[EN]:** A custom UI theme with red and black tones, created under my nick **E63**. This theme combines aesthetics and functionality to completely transform the T-Embed experience.
 
 ### 📽️ Boot.gif
 * **[TR]:** Cihaz açılışında beni karşılayan, **E63** imzalı özel açılış animasyonu.
@@ -41,8 +30,8 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 <br>
 
 ### 🛠️ Step-by-Step Theme / Adım Adım Tema
-* **[TR]:** 320x170 piksel boyutlarında arayüzü tasarlayın. Renk paleti için `#993633` ve siyah uyumunu kullanın. Görselleri bir dönüştürücü ile .c dosyasına çevirip Firmware koduna ekleyin ve cihazı flashlayın.
-* **[EN]:** Design the interface at 320x170 pixels. Use `#993633` and black for color harmony. Convert images to .c files, include them in the firmware code, and flash the device.
+* **[TR]:** 320x170 piksel boyutlarında arayüzü tasarlayın. Renk paleti için RGB565 formatını kullanın. Görselleri bir dönüştürücü ile .c dosyasına çevirip Firmware koduna ekleyin ve cihazı flashlayın.
+* **[EN]:** Design the interface at 320x170 pixels. Use RGB565 format for the color palette. Convert images to .c files, include them in the firmware code, and flash the device.
 
 </details>
 
