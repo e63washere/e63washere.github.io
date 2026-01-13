@@ -29,11 +29,9 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 <summary><b>Click to expand / Detayları görmek için tıklayın 📂</b></summary>
 <br>
 
-### Adım Adım Tema Oluşturma / Step-by-Step Theme Creation:
-1. **[TR] Tasarım:** 320x170 piksel boyutlarında arayüzü tasarlayın. / **[EN] Design:** Design the interface at 320x170 pixels.
-2. **[TR] Renk Paleti:** T-Embed ekranı için RGB565 formatını kullanın. / **[EN] Color Palette:** Use RGB565 format for the T-Embed screen.
-3. **[TR] Dönüştürme:** Görselleri `online image converter` ile .c dosyasına çevirin. / **[EN] Conversion:** Convert images to .c files using an online image converter.
-4. **[TR] Yükleme:** Dosyaları Firmware koduna ekleyip cihazı flashlayın. / **[EN] Flashing:** Include the files in the firmware code and flash the device.
+### 🛠️ Step-by-Step Theme / Adım Adım Tema
+* **[TR]:** 320x170 piksel boyutlarında arayüzü tasarlayın. Renk paleti için RGB565 formatını kullanın. Görselleri bir dönüştürücü ile .c dosyasına çevirip Firmware koduna ekleyin ve cihazı flashlayın.
+* **[EN]:** Design the interface at 320x170 pixels. Use RGB565 format for the color palette. Convert images to .c files, include them in the firmware code, and flash the device.
 
 </details>
 
@@ -45,11 +43,9 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 <summary><b>Click to expand / Detayları görmek için tıklayın 📂</b></summary>
 <br>
 
-### Boot Dosyası Hazırlama / Preparing Boot Files:
-1. **[TR] GIF Hazırlığı:** 320x170 boyutunda kısa bir animasyon oluşturun. / **[EN] GIF Prep:** Create a short animation at 320x170 resolution.
-2. **[TR] Format:** Karelerine (frames) ayırın veya doğrudan LVGL formatını kullanın. / **[EN] Format:** Split into frames or use the direct LVGL format.
-3. **[TR] Dosya Sistemi:** Hazırladığınız dosyayı LittleFS üzerinden cihaza yükleyin. / **[EN] Filesystem:** Upload the file to the device via LittleFS.
-4. **[TR] Kodlama:** `void setup()` içinde animasyonu tetikleyen kodu ekleyin. / **[EN] Coding:** Trigger the animation code within the `void setup()` function.
+### 🎞️ Boot Animation / Boot Animasyonu
+* **[TR]:** 320x170 boyutunda kısa bir animasyon oluşturun. Karelerine ayırın veya doğrudan LVGL formatını kullanın. Dosyayı LittleFS üzerinden cihaza yükleyin ve setup fonksiyonu içinde tetikleyin.
+* **[EN]:** Create a short animation at 320x170 resolution. Split into frames or use LVGL format. Upload the file via LittleFS and trigger it within the setup function.
 
 </details>
 
