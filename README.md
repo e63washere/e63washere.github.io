@@ -19,6 +19,9 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 
 ## ⚙️ How to Create Themes for T-Embed? / T-Embed Teması Nasıl Oluşturulur?
 
+<details>
+<summary><b>Click to expand / Detayları görmek için tıklayın 📂</b></summary>
+
 ### [TR] Adım Adım Tema Oluşturma:
 1. **Tasarım:** 320x170 piksel boyutlarında arayüzü tasarlayın.
 2. **Renk Paleti:** T-Embed ekranı için RGB565 formatını kullanın.
@@ -30,23 +33,28 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 2. **Color Palette:** Use RGB565 format for the T-Embed screen.
 3. **Conversion:** Convert images to .c files using an online image converter.
 4. **Flashing:** Include the files in the firmware code and flash the device.
+</details>
 
 ---
 
 ## 🎞️ How to Create a Boot Animation? / Boot Animasyonu Nasıl Yapılır?
 
+<details>
+<summary><b>Click to expand / Detayları görmek için tıklayın 📂</b></summary>
+
 ### [TR] Boot Dosyası Hazırlama:
 1. **GIF Hazırlığı:** 320x170 boyutunda kısa bir animasyon oluşturun.
 2. **Format:** Karelerine (frames) ayırın veya doğrudan LVGL formatını kullanın.
 3. **Dosya Sistemi:** Hazırladığınız dosyayı LittleFS üzerinden cihaza yükleyin.
-4. **Kodlama:** `void setup()` fonksiyonu içinde animasyon kodunu tetikleyin.
+4. **Kodlama:** `void setup()` fonksiyonu içinde animasyon kodunu tetiklenen kodu ekleyin.
 
 ### [EN] Preparing Boot Files:
 1. **GIF Prep:** Create a short animation at 320x170 resolution.
 2. **Format:** Split into frames or use the direct LVGL format.
 3. **Filesystem:** Upload the file to the device via LittleFS.
 4. **Coding:** Trigger the animation code within the `void setup()` function.
+</details>
 
 ---
 
-**Contact / İletişim:** E63 - [GitHub Profile](https://github.com/kullaniciadin)
+**Contact / İletişim:** E63 - [GitHub Profile](https://github.com/e63washere)
