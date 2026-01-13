@@ -16,8 +16,6 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 
 [EN]: A custom UI theme designed with 993633 under my nick E63.
 
----
-
 📽️ Boot.gif
 [TR]: E63 imzalı özel cihaz açılış animasyonu.
 
@@ -34,7 +32,7 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 <br>
 
 1 [TR] Tasarım: https://bruce.computer/build_theme.html sitesine giderek 320x170 boyutunda arayüzü tasarlayın. 
-2 [TR] Renk: Tasarımda 993633 ve siyah tonlarını kullanarak uyum sağlayın. 
+2 [TR] Renk: Tasarımda 993633 ve siyah tonlarını kullanarak uyum sağlayın.
 3 [TR] Dönüştürme: Sitedeki araç ile görselleri .c dosyasına çevirin. 
 4 [TR] Yükleme: Oluşturulan dosyaları Firmware koduna ekleyip cihazı flashlayın.
 
