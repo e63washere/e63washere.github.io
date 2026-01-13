@@ -11,9 +11,9 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 <summary><b>Click to view my projects / Çalışmalarımı görmek için tıklayın 📂</b></summary>
 <br>
 
-### 🔴 E63's Red Theme (#993633)
-* **[TR]:** Kendi nick'im olan **E63** adıyla hazırladığım, `#993633` renginde özel UI teması.
-* **[EN]:** A custom UI theme designed with `#993633` under my nick **E63**.
+ 🔴 E63's Red Theme (#993633)
+[TR]: Kendi nick'im olan **E63** adıyla hazırladığım, `#993633` renginde özel UI teması.
+[EN]: A custom UI theme designed with `#993633` under my nick **E63**.
 
 ### 📽️ Boot.gif
 * **[TR]:** **E63** imzalı özel cihaz açılış animasyonu.
