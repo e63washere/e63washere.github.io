@@ -7,6 +7,10 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 
 ## 🎨 My Creations / Çalışmalarım
 
+<details>
+<summary><b>Click to view my projects / Çalışmalarımı görmek için tıklayın 📂</b></summary>
+<br>
+
 ### 🔴 E63's Red Theme
 **TR:** Kendi nick'im olan **E63** adıyla hazırladığım, tamamen bana özel kırmızı ve siyah tonlara sahip kullanıcı arayüzü teması. Görsellik ve fonksiyonelliği bir araya getiren bu tema, T-Embed'in havasını tamamen değiştiriyor.
 **EN:** A custom UI theme with red and black tones, created under my nick **E63**. This theme combines aesthetics and functionality to completely transform the T-Embed experience.
@@ -15,12 +19,15 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 **TR:** Cihaz açılışında beni karşılayan, **E63** imzalı özel açılış animasyonu.
 **EN:** A custom boot animation with **E63** signature that greets me when the device starts up.
 
+</details>
+
 ---
 
 ## ⚙️ How to Create Themes for T-Embed? / T-Embed Teması Nasıl Oluşturulur?
 
 <details>
 <summary><b>Click to expand / Detayları görmek için tıklayın 📂</b></summary>
+<br>
 
 ### [TR] Adım Adım Tema Oluşturma:
 1. **Tasarım:** 320x170 piksel boyutlarında arayüzü tasarlayın.
@@ -33,6 +40,7 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 2. **Color Palette:** Use RGB565 format for the T-Embed screen.
 3. **Conversion:** Convert images to .c files using an online image converter.
 4. **Flashing:** Include the files in the firmware code and flash the device.
+
 </details>
 
 ---
@@ -41,18 +49,20 @@ Welcome! I am **E63**. This repository contains custom projects, themes, and tec
 
 <details>
 <summary><b>Click to expand / Detayları görmek için tıklayın 📂</b></summary>
+<br>
 
 ### [TR] Boot Dosyası Hazırlama:
 1. **GIF Hazırlığı:** 320x170 boyutunda kısa bir animasyon oluşturun.
 2. **Format:** Karelerine (frames) ayırın veya doğrudan LVGL formatını kullanın.
 3. **Dosya Sistemi:** Hazırladığınız dosyayı LittleFS üzerinden cihaza yükleyin.
-4. **Kodlama:** `void setup()` fonksiyonu içinde animasyon kodunu tetiklenen kodu ekleyin.
+4. **Kodlama:** `void setup()` fonksiyonu içinde animasyonu tetikleyen kodu ekleyin.
 
 ### [EN] Preparing Boot Files:
 1. **GIF Prep:** Create a short animation at 320x170 resolution.
 2. **Format:** Split into frames or use the direct LVGL format.
 3. **Filesystem:** Upload the file to the device via LittleFS.
 4. **Coding:** Trigger the animation code within the `void setup()` function.
+
 </details>
 
 ---
