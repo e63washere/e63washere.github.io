@@ -1,8 +1,8 @@
 🛠️ Custom Projects & Tools by E63
 
-Hoş geldiniz! Ben E63. Bu repo, geliştirdiğim özel projeleri, dijital araçları ve teknik dokümantasyonları içerir.Tüm bu çalışmalara GitHub'da görüntüle düğmesine tıklayarak ulaşabilirsiniz.
+Hoş geldiniz! Ben E63. Bu repo, geliştirdiğim özel projeleri, dijital araçları ve teknik dokümantasyonları içerir. Tüm bu çalışmalara GitHub'da görüntüle düğmesine tıklayarak ulaşabilirsiniz.
 
-Welcome! I am E63. This repository contains custom projects, digital tools, and technical documentations developed by me.You can find all these works by clicking the view button on GitHub.
+Welcome! I am E63. This repository contains custom projects, digital tools, and technical documentations developed by me. You can find all these works by clicking the view button on GitHub.
 
 ---
 
