@@ -11,15 +11,19 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 <summary>Click to view my projects / Çalışmalarımı görmek için tıklayın 📂</summary>
 <br>
 
-🔴 E63's Red Theme (993633)
-[TR]: Kendi nick'im olan E63 adıyla hazırladığım, 993633 renginde özel UI teması.
+<details>
+<summary>🔴 E63's Red Theme (993633)</summary>
+[TR]: Kendi nick'im olan E63 adıyla hazırladığım, 993633 renginde özel UI teması. Görsellik ve fonksiyonelliği bir araya getiren bu tema, T-Embed'in havasını tamamen değiştiriyor.
+[EN]: A custom UI theme designed with 993633 under my nick E63. This theme combines aesthetics and functionality to completely transform the T-Embed experience.
+</details>
 
-[EN]: A custom UI theme designed with 993633 under my nick E63.
+<br>
 
-📽️ Boot.gif
-[TR]: E63 imzalı özel cihaz açılış animasyonu.
-
-[EN]: A custom boot animation with E63 signature.
+<details>
+<summary>📽️ Boot.gif</summary>
+[TR]: E63 imzalı özel cihaz açılış animasyonu. Cihaz açıldığında ekranda beliren kişiselleştirilmiş bir başlangıçtır.
+[EN]: A custom boot animation with E63 signature. A personalized startup that appears on the screen when the device starts.
+</details>
 
 </details>
 
@@ -32,7 +36,7 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 <br>
 
 1 [TR] Tasarım: https://bruce.computer/build_theme.html sitesine giderek 320x170 boyutunda arayüzü tasarlayın. 
-2 [TR] Renk: Tasarımda 993633 ve siyah tonlarını kullanarak uyum sağlayın.
+2 [TR] Renk: Tasarımda 993633 ve siyah tonlarını kullanarak uyum sağlayın. 
 3 [TR] Dönüştürme: Sitedeki araç ile görselleri .c dosyasına çevirin. 
 4 [TR] Yükleme: Oluşturulan dosyaları Firmware koduna ekleyip cihazı flashlayın.
 
