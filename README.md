@@ -11,18 +11,26 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 <summary>Click to view my projects / Çalışmalarımı görmek için tıklayın 📂</summary>
 <br>
 
+🔴 E63's Red Theme (993633)
 <details>
-<summary>🔴 E63's Red Theme (993633)</summary>
-[TR]: Kendi nick'im olan E63 adıyla hazırladığım, 993633 renginde özel UI teması. Görsellik ve fonksiyonelliği bir araya getiren bu tema, T-Embed'in havasını tamamen değiştiriyor.
-[EN]: A custom UI theme designed with 993633 under my nick E63. This theme combines aesthetics and functionality to completely transform the T-Embed experience.
+<summary>Türkçe Açıklama [TR]</summary>
+Kendi nick'im olan E63 adıyla hazırladığım, 993633 renginde özel UI teması. Görsellik ve fonksiyonelliği bir araya getiren bu tema, T-Embed'in havasını tamamen değiştiriyor.
+</details>
+<details>
+<summary>English Description [EN]</summary>
+A custom UI theme designed with 993633 under my nick E63. This theme combines aesthetics and functionality to completely transform the T-Embed experience.
 </details>
 
 <br>
 
+📽️ Boot.gif
 <details>
-<summary>📽️ Boot.gif</summary>
-[TR]: E63 imzalı özel cihaz açılış animasyonu. Cihaz açıldığında ekranda beliren kişiselleştirilmiş bir başlangıçtır.
-[EN]: A custom boot animation with E63 signature. A personalized startup that appears on the screen when the device starts.
+<summary>Türkçe Açıklama [TR]</summary>
+E63 imzalı özel cihaz açılış animasyonu. Cihaz açıldığında ekranda beliren kişiselleştirilmiş bir başlangıçtır.
+</details>
+<details>
+<summary>English Description [EN]</summary>
+A custom boot animation with E63 signature. A personalized startup that appears on the screen when the device starts.
 </details>
 
 </details>
@@ -35,17 +43,21 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 <summary>Click to expand / Detayları görmek için tıklayın 📂</summary>
 <br>
 
-1 [TR] Tasarım: https://bruce.computer/build_theme.html sitesine giderek 320x170 boyutunda arayüzü tasarlayın. 
-2 [TR] Renk: Tasarımda 993633 ve siyah tonlarını kullanarak uyum sağlayın. 
-3 [TR] Dönüştürme: Sitedeki araç ile görselleri .c dosyasına çevirin. 
-4 [TR] Yükleme: Oluşturulan dosyaları Firmware koduna ekleyip cihazı flashlayın.
+<details>
+<summary>Adım Adım Tema Oluşturma [TR]</summary>
+1 Tasarım: https://bruce.computer/build_theme.html sitesine giderek 320x170 boyutunda arayüzü tasarlayın. 
+2 Renk: Tasarımda 993633 ve siyah tonlarını kullanarak uyum sağlayın. 
+3 Dönüştürme: Sitedeki araç ile görselleri .c dosyasına çevirin. 
+4 Yükleme: Oluşturulan dosyaları Firmware koduna ekleyip cihazı flashlayın.
+</details>
 
----
-
-1 [EN] Design: Go to https://bruce.computer/build_theme.html and design the interface at 320x170 px.
-2 [EN] Color: Use 993633 and black for theme harmony.
-3 [EN] Conversion: Convert images to .c files using the tool on the site.
-4 [EN] Flashing: Include files in the firmware code and flash the device.
+<details>
+<summary>Step-by-Step Theme Creation [EN]</summary>
+1 Design: Go to https://bruce.computer/build_theme.html and design the interface at 320x170 px.
+2 Color: Use 993633 and black for theme harmony.
+3 Conversion: Convert images to .c files using the tool on the site.
+4 Flashing: Include files in the firmware code and flash the device.
+</details>
 
 </details>
 
@@ -57,17 +69,21 @@ Welcome! I am E63. This repository contains custom projects, themes, and technic
 <summary>Click to expand / Detayları görmek için tıklayın 📂</summary>
 <br>
 
-1 [TR] GIF Hazırlığı: https://ezgif.com/maker adresini kullanarak 320x170 boyutunda kısa bir animasyon oluşturun. 
-2 [TR] Format: Karelerine ayırın veya doğrudan LVGL formatını kullanın. 
-3 [TR] Dosya Sistemi: Hazırladığınız dosyayı LittleFS üzerinden cihaza yükleyin. 
-4 [TR] Kodlama: setup fonksiyonu içinde animasyonu tetikleyen kodu ekleyin.
+<details>
+<summary>Boot Animasyonu Nasıl Yapılır? [TR]</summary>
+1 GIF Hazırlığı: https://ezgif.com/maker adresini kullanarak 320x170 boyutunda kısa bir animasyon oluşturun. 
+2 Format: Karelerine ayırın veya doğrudan LVGL formatını kullanın. 
+3 Dosya Sistemi: Hazırladığınız dosyayı LittleFS üzerinden cihaza yükleyin. 
+4 Kodlama: setup fonksiyonu içinde animasyonu tetikleyen kodu ekleyin.
+</details>
 
----
-
-1 [EN] GIF Prep: Use https://ezgif.com/maker to create a short animation at 320x170 resolution.
-2 [EN] Format: Split into frames or use the direct LVGL format.
-3 [EN] Filesystem: Upload the file via LittleFS.
-4 [EN] Coding: Trigger the animation code within the setup function.
+<details>
+<summary>How to Create Boot Animation? [EN]</summary>
+1 GIF Prep: Use https://ezgif.com/maker to create a short animation at 320x170 resolution.
+2 Format: Split into frames or use the direct LVGL format.
+3 Filesystem: Upload the file via LittleFS.
+4 Coding: Trigger the animation code within the setup function.
+</details>
 
 </details>
 
