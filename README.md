@@ -6,7 +6,7 @@ Welcome! I am E63. This repository contains custom projects, digital tools, and 
 
 ---
 
-<h2 style="color:#993633">🎨 My Creations / Çalışmalarım</h2>
+<h2 style="color:#2ea043">🎨 My Creations / Çalışmalarım</h2>
 
 <details>
 <summary>Click to view all categories / Tüm kategorileri görmek için tıklayın 📂</summary>
@@ -17,11 +17,11 @@ Welcome! I am E63. This repository contains custom projects, digital tools, and 
 <br>
 
 <details>
-<summary>🔴 E63's Red Theme (993633)</summary>
+<summary>🟢 E63's Green Theme (Terminal Style)</summary>
 <br>
 <blockquote>
-<strong>[TR]:</strong> T-Embed cihazı için 993633 renginde hazırladığım özel UI teması. Görsellik ve fonksiyonelliği bir araya getirerek cihazın havasını tamamen değiştirir.<br><br>
-<strong>[EN]:</strong> Custom UI theme designed with 993633 for the T-Embed device. Combines aesthetics and functionality to transform the device experience.
+<strong>[TR]:</strong> T-Embed cihazı için yeşil ve siyah tonlarında hazırladığım özel UI teması. Terminal estetiği ile cihazın havasını tamamen değiştirir.<br><br>
+<strong>[EN]:</strong> Custom UI theme designed with green and black tones for the T-Embed device. Completely transforms the device experience with a terminal aesthetic.
 </blockquote>
 </details>
 
@@ -64,7 +64,7 @@ Welcome! I am E63. This repository contains custom projects, digital tools, and 
 
 ---
 
-<h2 style="color:#993633">📖 Technical Guides / Teknik Rehberler</h2>
+<h2 style="color:#2ea043">📖 Technical Guides / Teknik Rehberler</h2>
 
 <details>
 <summary>Click to view guides / Rehberleri görüntülemek için tıklayın 📂</summary>
@@ -76,11 +76,12 @@ Welcome! I am E63. This repository contains custom projects, digital tools, and 
 <blockquote>
 <strong>[TR]:</strong>
 1. Tasarım: https://bruce.computer/build_theme.html (320x170 px).
-2. Renk: Belirgin , uyumlu ve anlaşılabilir renkler kullanın
+2. Renk: Belirgin, uyumlu ve anlaşılabilir renkler kullanın.
 3. LED Ayarı: Çok parlak yapmayın, maksimum 80.
 4. Kaydetme ve Yükleme: Oluştur ve İndir'e tıkladıktan sonra temayı bir SD karta yükleyin ve kullanın.<br><br>
 <strong>[EN]:</strong>
 1. Design: Use https://bruce.computer/build_theme.html (320x170 px).
+2. Color: Use distinct, compatible, and understandable colors.
 3. LED Setting: Don't make it too bright, a maximum of 80.
 4. Saving and Loading: After clicking Create and Download, load the theme onto an SD card and use it.
 </blockquote>
@@ -122,7 +123,7 @@ Welcome! I am E63. This repository contains custom projects, digital tools, and 
 
 ---
 
-<h2 style="color:#993633">📝 General Info / Genel Bilgiler</h2>
+<h2 style="color:#2ea043">📝 General Info / Genel Bilgiler</h2>
 
 Burada paylaşılan tüm içerikler kişisel gelişim ve hobi amaçlıdır.
 All contents shared here are for personal development and hobby purposes.
