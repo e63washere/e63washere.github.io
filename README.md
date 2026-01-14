@@ -76,12 +76,13 @@ Welcome! I am E63. This repository contains custom projects, digital tools, and 
 <blockquote>
 <strong>[TR]:</strong>
 1. Tasarım: https://bruce.computer/build_theme.html (320x170 px).
-2. Renk: 993633 ve siyah tonlarını kullanın.
-3. Dönüştürme: Görselleri .c dosyasına çevirin ve Firmware'e ekleyin.<br><br>
+2. Renk: Belirgin , uyumlu ve anlaşılabilir renkler kullanın
+3. LED Ayarı: Çok parlak yapmayın, maksimum 80.
+4. Kaydetme ve Yükleme: Oluştur ve İndir'e tıkladıktan sonra temayı bir SD karta yükleyin ve kullanın.<br><br>
 <strong>[EN]:</strong>
 1. Design: Use https://bruce.computer/build_theme.html (320x170 px).
-2. Color: Apply 993633 and black tones.
-3. Conversion: Convert images to .c and add to firmware.
+3. LED Setting: Don't make it too bright, a maximum of 80.
+4. Saving and Loading: After clicking Create and Download, load the theme onto an SD card and use it.
 </blockquote>
 </details>
 
