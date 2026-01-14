@@ -17,11 +17,11 @@ Welcome! I am E63. This repository contains custom projects, digital tools, and 
 <br>
 
 <details>
-<summary>🟢 E63's Green Theme (Terminal Style)</summary>
+<summary>🔴 E63's Red Theme (993633)</summary>
 <br>
 <blockquote>
-<strong>[TR]:</strong> T-Embed cihazı için yeşil ve siyah tonlarında hazırladığım özel UI teması. Terminal estetiği ile cihazın havasını tamamen değiştirir.<br><br>
-<strong>[EN]:</strong> Custom UI theme designed with green and black tones for the T-Embed device. Completely transforms the device experience with a terminal aesthetic.
+<strong>[TR]:</strong> T-Embed cihazı için 993633 renginde hazırladığım özel UI teması. Görsellik ve fonksiyonelliği bir araya getirerek cihazın havasını tamamen değiştirir.<br><br>
+<strong>[EN]:</strong> Custom UI theme designed with 993633 for the T-Embed device. Combines aesthetics and functionality to transform the device experience.
 </blockquote>
 </details>
 
